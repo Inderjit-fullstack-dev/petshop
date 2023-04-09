@@ -6,3 +6,6 @@ Swagger is one of the best ways to do that. In Swagger documentation, you can ad
 In below mentioned case study we will explore swagger parser. This is a pet store where you check different kind of pets and order them online.
 
 #Swagger example: http://petstore.swagger.io
+
+#tags
+1.1
