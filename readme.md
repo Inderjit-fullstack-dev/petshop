@@ -8,5 +8,5 @@ In below mentioned case study we will explore swagger parser. This is a pet stor
 #Swagger example: http://petstore.swagger.io
 
 #tags
-1.1
+release1.1
 1.2
