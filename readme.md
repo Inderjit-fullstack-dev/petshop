@@ -9,4 +9,4 @@ In below mentioned case study we will explore swagger parser. This is a pet stor
 
 #tags
 release1.1
-1.2
+release1.2
